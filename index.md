@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP The NorthCap Universtiy
 tags: example-tag
 region: Asia
-
+![OWASP Indore Logo](https://github.com/123abhi100123/OWASP/issues/1#issue-699061128)<br>
 ---
 
 <div style='color:red;'>
